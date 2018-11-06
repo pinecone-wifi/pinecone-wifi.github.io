@@ -1,1 +1,16 @@
+title: Pinecone
+description: >-
+  Pinecone is a WLAN networks auditing tool, suitable for red team usage. 
+url: "https://pinecone-wifi.github.io"
+github_username:  pinecone-wifi
+repository: pinecone-wifi/pinecone
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
+logo: logo.png
+show_downloads: "true"
+
